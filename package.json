@@ -2,7 +2,7 @@
   "name": "dariel-mera-profile",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://darielmera.github.io/dariel-mera-profile.git",
+  "homepage": "https://darielmera.github.io/dariel-mera-profile",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
