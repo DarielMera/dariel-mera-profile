@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dariel-mera-profile.git/static/css/main.d6fed6b0.css",
+    "main.js": "/dariel-mera-profile.git/static/js/main.b3e721cc.js",
+    "index.html": "/dariel-mera-profile.git/index.html",
+    "main.d6fed6b0.css.map": "/dariel-mera-profile.git/static/css/main.d6fed6b0.css.map",
+    "main.b3e721cc.js.map": "/dariel-mera-profile.git/static/js/main.b3e721cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6fed6b0.css",
+    "static/js/main.b3e721cc.js"
+  ]
+}
